@@ -1,0 +1,44 @@
+[
+    {
+      "id": "64235bf8fbb80cc63d10c6ac",
+      "balance": 3626,
+      "age": 24,
+      "name": "Joyce Lowery",
+      "gender": "female"
+    },
+    {
+      "id": "64235bf85fe3c7ed5acaf32b",
+      "balance": 3457,
+      "age": 34,
+      "name": "Reeves Bradford",
+      "gender": "male"
+    },
+    {
+      "id": "64235bf8a9f70d57d3270a7f",
+      "balance": 1534,
+      "age": 35,
+      "name": "Mendoza Simon",
+      "gender": "male"
+    },
+    {
+      "id": "64235bf806893f39f53c664d",
+      "balance": 2367,
+      "age": 28,
+      "name": "Isabelle Pacheco",
+      "gender": "female"
+    },
+    {
+      "id": "64235bf8184460fa0d3a6abc",
+      "balance": 2678,
+      "age": 21,
+      "name": "Cantu Ramos",
+      "gender": "male"
+    },
+    {
+      "id": "64235bf82dca78ac51b5831f",
+      "balance": 1019,
+      "age": 40,
+      "name": "Bender Pruitt",
+      "gender": "male"
+    }
+  ]

@@ -1,0 +1,17 @@
+.Person{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid #edf2f4;
+    background-color: #edf2f4;
+}
+.Person button{
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 1px solid #c0d9e4;
+}
+.Person button:hover{
+    cursor: pointer;
+    border: 1px solid #b3c4ca;
+}
